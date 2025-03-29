@@ -1,5 +1,7 @@
 # Upscaler
 Sales Management Platform
+![image](https://github.com/user-attachments/assets/905b2e27-cc92-4f05-b67f-88645b5be411)
+
 
 Overview
 
